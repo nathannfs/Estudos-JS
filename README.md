@@ -1,3 +1,3 @@
-# Juros de divida
+# Estudos em JavaScript
 
 Repositório para estudos sobre JavaScript
